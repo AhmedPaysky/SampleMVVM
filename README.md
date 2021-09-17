@@ -14,8 +14,8 @@ Including:
 
 ## Project Structure
 
-*background: where our services run in background thread
-*data: Our M (Model) in MVVM. Where we perform data operations.
-*di: Dependency Injection with the help of Hilt.
-*ui: Our Fragments and ViewModels helping to display data to the user.
-*utils: Helper classes and functions.
+* background: where our services run in background thread
+* data: Our M (Model) in MVVM. Where we perform data operations.
+* di: Dependency Injection with the help of Hilt.
+* ui: Our Fragments and ViewModels helping to display data to the user.
+* utils: Helper classes and functions.
